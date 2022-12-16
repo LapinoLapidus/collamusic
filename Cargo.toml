@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "collamusic_server",
+    "collamusic_web",
+]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
